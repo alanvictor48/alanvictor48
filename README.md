@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alanvictor48
 - 👀 I’m interested in Robotics, IA, Competitive Programming, etc
-- 🌱 I’m currently learning Assembly, C++, Python, Arduino, etc
+- 🌱 I’m currently learning AVR ATmega, C/C++, Python, Linux e Visão Computacional
 - 💞️ I’m looking to collaborate on challenge projects
 - 📫 https://www.linkedin.com/in/alan-v-84a001124/
 
